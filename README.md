@@ -6,6 +6,7 @@
 <p align="center"><strong>Good food. For everyone.</strong><br />One food-ordering experience for the web and Android.</p>
 <p align="center">
   <a href="https://khayaguzu.helioho.st/">Live Website</a> •
+  <a href="https://youtu.be/AyzUCJlN56Q">Project Demonstration Video</a> •
   <a href="https://github.com/Khayaguzu/campuseats/actions">GitHub Actions</a> •
   <a href="RELEASE_NOTES.md">Release Notes</a> •
   <a href="#3-screenshots">Screenshots</a>
