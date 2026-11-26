@@ -18,6 +18,16 @@ android(
         buildConfigField("String", "BASE_URL", "\"${campusBase}\"")
         buildConfigField("String", "SSO_URL", "\"${campusSso}\"")
     })
+    signingConfigs(
+    {
+        create("release")
+        {
+            storeFile = file("release.keystore")
+            storePassword = "campuseats"
+            keyAlias = "campuseats"
+            keyPassword = "campuseats"
+        }
+    })
     buildFeatures(
     {
         buildConfig = true
@@ -36,6 +46,7 @@ android(
         release(
         {
             isMinifyEnabled = false
+            signingConfig = signingConfigs.getByName("release")
         })
     })
 })
