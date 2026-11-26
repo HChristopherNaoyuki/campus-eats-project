@@ -11,7 +11,7 @@ One food-ordering experience for the web and Android.
 - Release notes: RELEASE_NOTES.md
 - Screenshots: see the `docs/images` folder
 
-Version information, 12 November 2026.
+Version Information: 12 November 2026
 
 This README describes the current, deployed Campus Eats experience
 (Android v1.1.0). The updated source is on the
@@ -751,9 +751,15 @@ The first three documents are in
 `CampusEats_Website_Android_App_Separated/Website/docs`. The last
 two are the README files of their respective folders.
 
-Project team. Makaya Guzu and Naoyuki Christopher Higaki.
-Project type. Academic software-development portfolio.
-Last documentation update. 12 November 2026.
+Project Team: 
+- Makaya Guzu
+- Naoyuki Christopher Higaki.
+
+Project type:
+- Academic software-development portfolio.
+
+Last Documentation Update:
+- 26 November 2026.
 
 ## 15. Disclaimer
 
